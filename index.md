@@ -1,7 +1,7 @@
 ## Meme Connoisseur
 ### A Memebot for discord
 
-This bot allows users to p
+### Invite the bot: https://bot.discord.io/memeconnoisseur
 
 ### Features
    * Request a random meme from Imgur, Reddit, iFunny, etc.
@@ -34,7 +34,6 @@ ifunny | Get a random dish served by iFunny. Example: +ifunny
 imgur | Get a random dish served by Imgur. Example: +imgur
 memedroid | Get a random dish served by Memedroid. Example: +memedroid
 ```
-### 
 
 ### Setup
 All you need to do is invite the bot to your server and use the handy setup command to guide you through customizing your experience. After setup, use the help command to see what our bot has to offer.
