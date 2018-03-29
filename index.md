@@ -1,9 +1,8 @@
-## Meme Connoisseur
+# Meme Connoisseur
 ### A Memebot for discord
-
 ### Invite the bot: https://bot.discord.io/memeconnoisseur
 
-### Features
+## Features
    * Request a random meme from Imgur, Reddit, iFunny, etc.
    * Add a meme template to the community library.
    * Use a jpg image to create your own custom memes.
@@ -11,7 +10,7 @@
    * PM support, you don't even need to be on a server, just use our PM friendly commands.
    * The ability to disable some features and restrict the bot to just one chat.
 
-### Commands
+## Commands
 ```
 memegen walkthrough | Gives you a basic introduction to meme generator. Example: +memegen walkthrough
 memegen normal | Use an existing template to make a meme! Example: +memegen normal "test meme" "yas good"
@@ -35,8 +34,8 @@ imgur | Get a random dish served by Imgur. Example: +imgur
 memedroid | Get a random dish served by Memedroid. Example: +memedroid
 ```
 
-### Setup
+## Setup
 All you need to do is invite the bot to your server and use the handy setup command to guide you through customizing your experience. After setup, use the help command to see what our bot has to offer.
 
-### Support:
+## Support:
 Join our support server if you have any questions or need help: https://discord.gg/wCUeZkK
