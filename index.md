@@ -12,6 +12,7 @@ This bot allows users to p
    * The ability to disable some features and restrict the bot to just one chat.
 
 ### Commands
+```
 * **memegen walkthrough** | Gives you a basic introduction to meme generator. *Example: +memegen walkthrough*
 * **memegen normal** | Use an existing template to make a meme! *Example: +memegen normal "test meme" "yas good" <id>*
 * **memegen list** | Get a list of ids of premade images. *Example: +memegen list (0 or 1)*
@@ -32,7 +33,7 @@ This bot allows users to p
 * **ifunny** | Get a random dish served by iFunny. *Example: +ifunny*
 * **imgur** | Get a random dish served by Imgur. *Example: +imgur*
 * **memedroid** | Get a random dish served by Memedroid. *Example: +memedroid*
-
+```
 ### Setup
 All you need to do is invite the bot to your server and use the handy setup command to guide you through customizing your experience. After setup, use the help command to see what our bot has to offer.
 
