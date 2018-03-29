@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Meme Connoisseur
+### A Memebot for discord
 
 You can use the [editor on GitHub](https://github.com/Dahreeb/meme-connoisseur/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
