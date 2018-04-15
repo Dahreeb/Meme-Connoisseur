@@ -76,7 +76,7 @@ Get a random dish served by Imgur. `Example: +imgur`
 Get a random dish served by Memedroid. `Example: +memedroid`
 
 ## Bot Lists
-<a href="https://botsfordiscord.com/bot/418886325899362315"><img src="https://botsfordiscord.com/api/v1/bots/418886325899362315/embed"></a>
+<a href="https://botsfordiscord.com/bot/418886325899362315"><img src="https://botsfordiscord.com/api/v1/bots/418886325899362315/embed?theme=dark"></a>
 
 ## Setup
 All you need to do is invite the bot to your server and use the handy setup command to guide you through customizing your experience. After setup, use the help command to see what our bot has to offer.
