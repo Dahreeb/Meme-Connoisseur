@@ -1,7 +1,7 @@
 # Meme Connoisseur
 ### A Memebot for discord
 ### Invite the bot: [https://bot.discord.io/memeconnoisseur](https://bot.discord.io/memeconnoisseur)
-### Join the official discord server: [https://discord.gg/wCUeZkK](https://discord.gg/wCUeZkK)
+### Join the official discord server: [https://discord.io/landshark](https://discord.gg/wCUeZkK)
 
 ## Features
    * Request a random meme from Imgur, Reddit, iFunny, etc.
