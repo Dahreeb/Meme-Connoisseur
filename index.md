@@ -1,6 +1,6 @@
 # Meme Connoisseur
 ### A Memebot for discord
-### Invite the bot: [https://bot.discord.io/memeconnoisseur](https://bot.discord.io/memeconnoisseur)
+### Invite the bot: [https://discordapp.com/oauth2/authorize?&client_id=418886325899362315&scope=bot](https://discordapp.com/oauth2/authorize?&client_id=418886325899362315&scope=bot)
 ### Join the official discord server: [https://discord.io/landshark](https://discord.gg/wCUeZkK)
 
 ## Features
